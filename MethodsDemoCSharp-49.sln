@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodsDemoCSharp-49", "MethodsDemoCSharp-49\MethodsDemoCSharp-49.csproj", "{FE8656EA-65E8-4FFD-BE99-F7DBB4E47850}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE8656EA-65E8-4FFD-BE99-F7DBB4E47850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE8656EA-65E8-4FFD-BE99-F7DBB4E47850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE8656EA-65E8-4FFD-BE99-F7DBB4E47850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE8656EA-65E8-4FFD-BE99-F7DBB4E47850}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
